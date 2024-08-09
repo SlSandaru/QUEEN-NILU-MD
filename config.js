@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94784585726'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'SANDARU'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -43,17 +43,17 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'Queen Nilu 2024'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Sandaru 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2024' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -61,22 +61,22 @@ global.ALIVE_MESSAGE = '' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
-global.ANTI_BAD = true // Antibad (on = True , Off = False )
+global.ANTI_BAD = false // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = '' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
